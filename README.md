@@ -151,28 +151,21 @@ Working on this project strengthened my experience in:
 
 Screenshots are included to showcase the public website and appointment workflow.
 
-```text
-screenshots/
-├── landing-page.png
-├── services.png
-├── appointment.png
-├── appointment-details.png
-├── booking-complete.png
-├── admin-dashboard.png
-└── appointment-management.png
-```
+| Landing Page | Services |
+|:---:|:---:|
+| <img src="screenshots/landing-page.png" width="450"> | <img src="screenshots/services.png" width="450"> |
 
-### Landing Page
+| Appointment | Appointment Details |
+|:---:|:---:|
+| <img src="screenshots/appointment.png" width="450"> | <img src="screenshots/appointment-details.png" width="450"> |
 
-<p align="center">
-  <img src="screenshots/landing-page.png" width="900">
-</p>
+| Booking Complete | Admin Dashboard |
+|:---:|:---:|
+| <img src="screenshots/booking-complete.png" width="450"> | <img src="screenshots/admin-dashboard.png" width="450"> |
 
-### Appointment System
-
-<p align="center">
-  <img src="screenshots/appointment.png" width="900">
-</p>
+| Appointment Management |
+|:---:|
+| <img src="screenshots/appointment-management.png" width="450"> |
 
 # Source Code
 
