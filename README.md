@@ -179,7 +179,7 @@ This repository serves as a **portfolio case study** showcasing the project's de
 
 # Developer
 
-**Renier Tambogon**
+**Renier Jhon Tambogon** (kalabasaa)
 
 Bachelor of Science in Information Technology
 
