@@ -36,7 +36,7 @@ The project was developed around the clinic's actual requirements, combining a r
 &nbsp;&nbsp;
 [![Appointment](https://img.shields.io/badge/Book%20Appointment-Online-D4AF37?style=for-the-badge)](https://baltazardental.vercel.app/Appointment/)
 &nbsp;&nbsp;
-[![Privacy](https://img.shields.io/badge/Privacy-Policy-D4AF37?style=for-the-badge)](https://baltazardental.vercel.app/Appointment/Privacy/)
+[![Privacy](https://img.shields.io/badge/Privacy-Policy-D4AF37?style=for-the-badge)](https://baltazardental.vercel.app/Appointment/Policy/)
 &nbsp;&nbsp;
 [![Terms](https://img.shields.io/badge/Terms-%26%20Conditions-D4AF37?style=for-the-badge)](https://baltazardental.vercel.app/Appointment/Conditions/)
 
